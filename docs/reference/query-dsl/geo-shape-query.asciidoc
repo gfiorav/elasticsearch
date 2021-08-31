@@ -177,7 +177,7 @@ shapes and you want to reference the list using
 a logical name (for example 'New Zealand') rather than having to provide
 coordinates each time. In this situation, it is only necessary to provide:
 
-* `id` - The ID of the document that containing the pre-indexed shape.
+* `id` - The ID of the document containing the pre-indexed shape.
 * `index` - Name of the index where the pre-indexed shape is. Defaults to
 'shapes'.
 * `path` - The field specified as path containing the pre-indexed shape.
